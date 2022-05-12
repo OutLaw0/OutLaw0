@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @OutLaw0
 - 👀 I’m interested in Web tecnology and improve my skills
+      You can see my CV https://outlaw0.github.io/rsschool-cv/ 
 - 🌱 I’m currently learning JS, TS, Node.js, Webpack
 - 📫 @Outlaw_tg 
 
