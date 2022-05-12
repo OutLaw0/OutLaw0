@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OutLaw0
 - 👀 I’m interested in Web tecnology and improve my skills
-- 🌱 I’m currently learning HTML, CSS, JS, Python
+- 🌱 I’m currently learning JS, TS, Node.js, Webpack
 - 📫 @Outlaw_tg 
 
 <!---
