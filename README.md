@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OutLaw0
+- 👋 Hi, I’m Valentin
 - 👀 I’m interested in Web tecnology and improve my skills. 
 - 🌱 I’m currently learning JS, TS, Node.js, Webpack
 - 📫 @Outlaw_tg 
